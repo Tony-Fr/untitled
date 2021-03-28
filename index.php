@@ -1,5 +1,5 @@
 <?php
 #ceci est un test
-salut
+#salut
 
 #comment ca va
