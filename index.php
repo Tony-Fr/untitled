@@ -3,5 +3,3 @@
 salut
 
 comment ca va
-
-bonne version
